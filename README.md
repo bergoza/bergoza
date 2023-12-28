@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/bergoza/bergoza/blob/main/giphy-backdrop.gif" />
+  <img src="https://giphy.com/gifs/Puz3dE0p7DDniPI4ZE" />
 </h1>
 
 I'm Fatma, 23 years old Electrical and Electronic 
