@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/fatmkzlkaya/fatmkzlkaya/aefb268266062eab1f0ad2419263cbccd9c80230/name.svg" />
+</h1>
 
-<!--
-**bergoza/bergoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fatma, 23 years old Electrical and Electronic 
+Engineer Studen who is a Science and Technology Enthusiast 
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 C, Python
+- 💽 STM32 Microcontroller, Arduino
+-  ✔ Altium Designer
+- 👁️ Basic Networking, Cyber Security
+- ⚙️ Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact
+- [@fatmkzlkaya](https://www.linkedin.com/in/fatma-kizilkaya/) on LinkedIn
+- [@fatmkzlkaya](https://twitter.com/fatmkzlkaya) on Twitter
+- fatm.kizilkaya@outlook.com
