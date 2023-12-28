@@ -3,7 +3,8 @@
 </h1>
 
 I'm Fatma, 23 years old Electrical and Electronic 
-Engineer Studen who is a Science and Technology Enthusiast 
+Engineer Student. 
+<:Science and Technology Enthusiast:>
 
 ## Skills
 - 👨‍💻 C, Python
